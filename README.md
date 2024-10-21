@@ -1,6 +1,6 @@
 # Aplicativo GymBro
 
-## Descição do trabalho:
+## Descrição do trabalho:
   Aplicativo de trabalho final da disciplina de Engenharia de Software do professor Fábio Fagundes Silveira, grupo Foxtrot da disciplina no período Integral no semestre 2024/2.
 
 ## Integrantes:
